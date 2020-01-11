@@ -1,7 +1,7 @@
 **exo n°2 mon conteneur**
 ============================
 1. **pwd**
-2. **ls *.***
+2. **ls** * . *
 3. **mkdir** **```conteneur```**
 4. **cd** **```conteneur```**
 5. **mkdir** **```voitures ustensiles electronique```**
